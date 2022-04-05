@@ -3,3 +3,5 @@
 .vscode
 pyproject.toml
 Pipfile
+tests/__pycache__/
+__pycache__/
