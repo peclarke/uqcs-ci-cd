@@ -1,7 +1,7 @@
 class UQCSTalk:
-    def __init__(self, name):
+    def __init__(self, name, hours):
         self.name = name
-        self.hours = 1
+        self.hours = hours
 
     def get_hours(self):
         return self.hours
