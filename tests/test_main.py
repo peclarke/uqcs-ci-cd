@@ -12,4 +12,4 @@ def talk():
 
 def test_add_hour(talk: UQCSTalk):
     talk.add_hour()
-    assert talk.get_hours() == 2
+    assert talk.get_hours() == "I can code HTML and CSS!"
